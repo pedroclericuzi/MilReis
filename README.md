@@ -1,8 +1,8 @@
-Política de Privacidade do App Milreis
+# Política de Privacidade do App Milreis
 
 Esta Política de Privacidade descreve como as informações são coletadas, usadas e compartilhadas quando você usa o aplicativo Milreis ("Aplicativo").
 
-#Informações Coletadas
+# Informações Coletadas
 O Milreis coleta as seguintes informações:
 
 - Informações de Registro: Quando você se registra no aplicativo, coletamos seu nome, endereço de e-mail e outras informações de contato.
